@@ -1,0 +1,27 @@
+Variable,Coefficient,Abs_Coefficient,Effect,Variable_Type
+student age,-0.021620311,0.021620310987151437,Protective Factor,Demographic
+gender birth,-0.191661901,0.19166190082663145,Protective Factor,Demographic
+exercise hours weekly,-0.559282664,0.5592826641627355,Protective Factor,Behavioral
+seek help if need,-0.469201778,0.46920177762002097,Protective Factor,Behavioral
+know where help,-0.490267464,0.49026746357746454,Protective Factor,Behavioral
+num of support areas,0.056409537,0.056409537,Risk Factor,Behavioral
+diagnosed mental illness,0.8004901865025484,0.8004901865025484,Risk Factor,Clinical
+therapy past12 months,0.45051922258636906,0.45051922258636906,Risk Factor,Clinical
+gpa,-0.541617821,0.5416178210266209,Protective Factor,Academic
+financial stress,1.6354158821676983,1.6354158821676983,Risk Factor,Socioeconomic
+year in school,0.031881368,0.031881368,Risk Factor,Academic
+lonely score,0.4668693003569406,0.4668693003569406,Risk Factor,Behavioral
+eating disorder score,0.3636099407894931,0.3636099407894931,Risk Factor,Clinical
+student athlete,0.22853515491893017,0.22853515491893017,Risk Factor,Demographic
+arts and humanities,0.029404067923444455,0.029404067923444455,Risk Factor,Academic
+social sciences,-0.147281149,0.14728114853622837,Protective Factor,Academic
+stem,0.008610356,0.008610356,Risk Factor,Academic
+health and medicine,-0.334165991,0.33416599115098183,Protective Factor,Academic
+business,-0.244264022,0.2442640222050769,Protective Factor,Academic
+public and social services,-0.187127953,0.18712795261803916,Protective Factor,Academic
+education,-0.16169275,0.16169275037200845,Protective Factor,Academic
+undecided,-0.161640934,0.16164093413854702,Protective Factor,Academic
+personal stigma score,-0.002020354,0.002020354,Protective Factor,Behavioral
+perceived stigma score,-0.044217083,0.044217082948992875,Protective Factor,Behavioral
+self stigma score,0.053624115,0.053624115,Risk Factor,Behavioral
+not white,-0.124639924,0.12463992426138118,Protective Factor,Demographic
